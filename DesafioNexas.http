@@ -1,0 +1,6 @@
+@DesafioNexas_HostAddress = http://localhost:5122
+
+GET {{DesafioNexas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
